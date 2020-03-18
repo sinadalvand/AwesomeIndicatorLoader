@@ -1,0 +1,2 @@
+include ':app',':awesomeindicator'
+rootProject.name = "AwesomeIndicatorApplication"

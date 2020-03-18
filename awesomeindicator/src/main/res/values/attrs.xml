@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="AwesomeIndicator" >
+        <attr name="indicator_radius" format="dimension" />
+        <attr name="indicator_padding" format="dimension" />
+        <attr name="indicator_unselectedColor" format="color" />
+        <attr name="indicator_selectedColor" format="color" />
+        <attr name="indicator_rtl_mode">
+            <enum name="on" value="0" />
+            <enum name="off" value="1" />
+            <enum name="auto" value="2" />
+        </attr>
+    </declare-styleable>
+
+
+</resources>
